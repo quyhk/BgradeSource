@@ -1,0 +1,22 @@
+.header{
+    background-color: blue;
+    margin-top: 30px;
+    border: 1px solid blueviolet;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.title, .containerLogout {
+    margin-top: 29px;
+    font-size: 18px;
+    color: white;
+}
+
+.linkLogout{
+    color: white;
+}
+
+.colorBright{
+    color: tomato;
+}
